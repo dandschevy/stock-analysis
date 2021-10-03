@@ -11,14 +11,17 @@ A template was provided in order to serve as a roadmap for the combination of 4 
 
 The end result was that the refactoring of the original macros saved time.  Below are the comparisons of the before and after for both 2017 and 2018:
 
-### 2017 Before Refactor
-![green_stocks_2017]
+### 2017 Before Refactoring
+![green_stocks_2017](https://user-images.githubusercontent.com/90434559/135772917-949cfd07-0584-47c8-abe2-9b663c1e2c88.png)
+
+### 2017 After Refactoring
 
 
-### 2018 Before Refactor
+
+### 2018 Before Refactoring
 
 
-### After Refactor
+### 2018 After Refactoring
 
 
 ### Challenges and Difficulties Encountered
