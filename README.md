@@ -13,7 +13,7 @@ The end result was that the refactoring of the original macros saved time.  Belo
 
 ### 2017 Before Refactoring
 Note:  The time listed for the before refactoring (2017 only) does not include any numerical formatting, bolding, or conditinal coloring of cells.
-![green_stocks_2017](https://user-images.githubusercontent.com/90434559/135772917-949cfd07-0584-47c8-abe2-9b663c1e2c88.png)
+![green_stocks_2017]
 
 
 ### 2017 After Refactoring
@@ -21,7 +21,8 @@ Note:  The time listed for the before refactoring (2017 only) does not include a
 
 
 ### 2018 Before Refactoring
-![green_stocks_2018]
+![green_stocks_2018](https://user-images.githubusercontent.com/90434559/135773079-1c9198fc-d151-476c-9c2d-d6164c4e870c.png)
+
 
 
 ### 2018 After Refactoring
